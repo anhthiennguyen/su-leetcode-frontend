@@ -154,9 +154,6 @@ const HomePage = ({ problemData, leaderboardData: initialLeaderboardData }: HTTP
                             }}
                         >
                             <option value="javascript" className="bg-[#363636]">Javascript</option>
-                            <option value="python" className="bg-[#363636]">Python</option>
-                            <option value="java" className="bg-[#363636]">Java</option>
-                            <option value="c++" className="bg-[#363636]">C++</option>
                         </select>
                         <button
                             type="submit"
